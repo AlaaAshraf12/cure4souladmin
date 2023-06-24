@@ -163,7 +163,7 @@ $conn = OpenConnection();
         
         <div class="nav-links">
             <a href="power.html">Dashboard</a>
-            <a href="addschedule.php">Add therapist schedule</a>
+            <a href="index.php">Add therapist schedule</a>
             
             
        
